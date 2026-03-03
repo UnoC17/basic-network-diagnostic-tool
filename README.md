@@ -16,3 +16,5 @@ This Python script pings a list of IP addresses and reports connectivity status 
 2. Open Terminal
 3. Navigate to the file
 4. Run `python3 network_diagnostic.py`
+
+[Download PDF explanation](UnaConton_network-diagnostic-tool.pdf)
